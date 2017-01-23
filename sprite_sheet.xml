@@ -1,0 +1,23 @@
+<TextureAtlas imagePath="sprite_sheet.png">
+  <SubTexture x="0" y="0" width="663" height="573" name="bg_big_purple"/>
+  <SubTexture x="0" y="573" width="129" height="216" name="WIN_gift_mouseB"/>
+  <SubTexture x="129" y="573" width="163" height="212" name="WIN_gift_mouseW"/>
+  <SubTexture x="292" y="574" width="590" height="315" name="bg_big_purple_board_gift"/>
+  <SubTexture x="0" y="889" width="159" height="53" name="WIN_btn_green_over"/>
+  <SubTexture x="159" y="889" width="159" height="53" name="WIN_btn_green_norm"/>
+  <SubTexture x="318" y="889" width="205" height="49" name="friend_board"/>
+  <SubTexture x="523" y="889" width="205" height="50" name="btn_purple_over_en"/>
+  <SubTexture x="0" y="789" width="205" height="50" name="btn_purple_over_dis"/>
+  <SubTexture x="0" y="942" width="205" height="50" name="btn_purple_norm_en"/>
+  <SubTexture x="205" y="942" width="205" height="50" name="btn_purple_norm_dis"/>
+  <SubTexture x="410" y="942" width="235" height="78" name="bg_big_purple_title"/>
+  <SubTexture x="645" y="942" width="37" height="38" name="WIN_btn_close_over"/>
+  <SubTexture x="682" y="942" width="37" height="38" name="WIN_btn_close_norm"/>
+  <SubTexture x="719" y="942" width="31" height="29" name="WIN_btn_arrow_over"/>
+  <SubTexture x="750" y="942" width="31" height="29" name="WIN_btn_arrow_norm"/>
+  <SubTexture x="781" y="942" width="45" height="45" name="friend_frame_empty"/>
+  <SubTexture x="826" y="942" width="45" height="45" name="friend_frame"/>
+  <SubTexture x="871" y="942" width="23" height="24" name="check"/>
+  <SubTexture x="894" y="942" width="32" height="33" name="checkbox_over"/>
+  <SubTexture x="926" y="942" width="32" height="33" name="checkbox_norm"/>
+</TextureAtlas>
