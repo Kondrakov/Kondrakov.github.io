@@ -6,10 +6,10 @@
   <SubTexture x="0" y="889" width="159" height="53" name="WIN_btn_green_over"/>
   <SubTexture x="159" y="889" width="159" height="53" name="WIN_btn_green_norm"/>
   <SubTexture x="318" y="889" width="205" height="49" name="friend_board"/>
-  <SubTexture x="523" y="889" width="205" height="50" name="btn_purple_over_en"/>
-  <SubTexture x="0" y="789" width="205" height="50" name="btn_purple_over_dis"/>
-  <SubTexture x="0" y="942" width="205" height="50" name="btn_purple_norm_en"/>
-  <SubTexture x="205" y="942" width="205" height="50" name="btn_purple_norm_dis"/>
+  <SubTexture x="523" y="889" width="205" height="50" name="btn_purple_en_over"/>
+  <SubTexture x="0" y="789" width="205" height="50" name="btn_purple_dis_over"/>
+  <SubTexture x="0" y="942" width="205" height="50" name="btn_purple_en_norm"/>
+  <SubTexture x="205" y="942" width="205" height="50" name="btn_purple_dis_norm"/>
   <SubTexture x="410" y="942" width="235" height="78" name="bg_big_purple_title"/>
   <SubTexture x="645" y="942" width="37" height="38" name="WIN_btn_close_over"/>
   <SubTexture x="682" y="942" width="37" height="38" name="WIN_btn_close_norm"/>
